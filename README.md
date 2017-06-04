@@ -1,7 +1,7 @@
-choctorantsday.github.io
-========================
+Choctorant's day
+================
 
-Choctorants' day : [Lattice][1]'s annual student sessions
+[Lattice][1]'s annual student sessions
 
 ---
 
